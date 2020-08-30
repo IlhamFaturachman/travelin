@@ -1,0 +1,16 @@
+.jumbotron{
+    background: transparent;
+    height: 75vh;
+    position: relative;
+    z-index: 1;
+    margin-top: -75vh;
+    color: 666;
+}
+.carousel{
+    height: 75vh;
+}
+.d-block{
+    height: 75vh;
+    position: relative;
+    z-index: 0;
+}
